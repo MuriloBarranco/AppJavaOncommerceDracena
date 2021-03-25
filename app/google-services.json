@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "332935416779",
+    "firebase_url": "https://oncommerce-5d179.firebaseio.com",
+    "project_id": "oncommerce-5d179",
+    "storage_bucket": "oncommerce-5d179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332935416779:android:f39dcd5bad14c31d75c44e",
+        "android_client_info": {
+          "package_name": "com.example.oncommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332935416779-3i9gk3ku9m2uk2t6opl4l1rq50bkoath.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oncommerce",
+            "certificate_hash": "111684e55fff98f54ea90f30120208adfe63f7aa"
+          }
+        },
+        {
+          "client_id": "332935416779-ri0aai8sn6gr6p1lg6dtoctrlsqdfi28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpNQ2fM1n-6MjkrbB0zZCKvG0Luq9NSaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332935416779-ri0aai8sn6gr6p1lg6dtoctrlsqdfi28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
